@@ -5,15 +5,23 @@ body {
 
 
 .navbar {
-    background-color: #E09;
+    background-color: #81FFC7;
 }
 
 .quem-somos{
-    background-color: #8181F7;
+    background-color: #CCCB52;
     color: white;
 }
 
 .margin {
     padding-bottom: 50px;
+    padding-top: 10px;
+}
 
+.parceiros {
+    background-color: #919DC2;
+}
+
+.bg-footer {
+    background-color: black;
 }
